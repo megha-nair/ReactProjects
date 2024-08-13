@@ -1,0 +1,46 @@
+.outerdiv{
+    background-color: rgb(226, 207, 245);
+    padding: 50px;
+    align-items: center;
+    text-align: center;
+    height: 600px;
+}
+#b1{
+    background-color: rgb(170, 170, 235);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1;
+}
+#ip{
+    width: 200px;
+    height: 25px;
+
+}
+.input{
+    background-color: rgb(183, 149, 215);
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+
+}
+.output{
+    align-items: end;
+    background-color: rgb(183, 149, 215);
+    padding: 20px;
+    margin: 20px;
+    
+}
+ul {
+    list-style: none;
+  }
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+    border-bottom: 1px solid rgb(231, 219, 242);
+    border-radius: 8px;
+    background-color: aliceblue;
+}
